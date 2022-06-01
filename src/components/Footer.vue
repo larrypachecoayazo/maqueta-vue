@@ -1,0 +1,7 @@
+<template>
+<footer class="bg-gray-700 text-center text-white py-5 text-sm">
+    <div class="flex justify-center"><img src="/src/assets/logou2.png" alt=""></div>
+    <div>Diplomado en desarrollo de aplicaciones orientadas a la nube</div>
+    <div>Universidad de Córdoba</div>
+</footer>        
+</template>
